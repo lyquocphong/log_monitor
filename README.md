@@ -1,0 +1,1 @@
+This project is the application to monitor the log using Monolog and Mysql
